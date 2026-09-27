@@ -13,7 +13,7 @@ The system can transcribe audio, generate meeting summaries, extract action item
 - 🌐 Hinglish transcription/translation using Sarvam AI
 - 📝 Generate professional meeting summaries
 - ✅ Extract action items with owners and deadlines
-- 🎯 Identify key decisions
+- 🎯 Identify key decisions 
 - ❓ Detect unresolved questions and follow-up topics
 - 🔎 Semantic transcript search using embeddings
 - 🧠 RAG-based question answering
